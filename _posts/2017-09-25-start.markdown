@@ -16,8 +16,14 @@ tags:
 
 #### 最近几年留下的印记
 
+<<<<<<< HEAD
 > python熟了，写脚本做单机处理无障碍
 > clojure上道了，无论写项目，工具，都优先选择clojure
 > 由上述把emacs练了，同时在ubuntu下敲键盘改用了[无刻的HHKB](https://www.amazon.co.jp/gp/product/B000F8OECM)
+=======
+> * python熟了，写脚本做单机处理无障碍
+> * clojure上道了，无论写项目，工具，都优先选择clojure
+> * 由上述把emacs练了，同时在ubuntu下敲键盘改用了[无刻的HHKB](https://www.amazon.co.jp/gp/product/B000F8OECM)
+>>>>>>> f7e9ebf883794f5a47f0b0fac204c2be228631cb
 
 剩下的hadoop，storm，kafka，magpie啥的都成了经历，收获就是升职加薪的那些；最近一两年转管理岗后，没事自己写点小东西也是很有乐趣的，如何让生活有点意思就是靠这些小东西了。未来无论干什么，python, clojure, emacs, HHKB注定会继续伴随我走下去。
