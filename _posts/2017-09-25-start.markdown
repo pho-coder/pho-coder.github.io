@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "开篇"
+subtitle:   "回顾过去，展望未来"
+date:       2017-09-25 23:00:00
+author:     "phoenix"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - life
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+好吧，就这么开始吧.
