@@ -68,7 +68,7 @@ ga_domain: pho.rocks
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "生命不息，代码不止，<br>Less is More."
+sidebar-about-description: "遇见些有趣的事<br>明白些有趣的理"
 sidebar-avatar: /img/avatar-pho.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
