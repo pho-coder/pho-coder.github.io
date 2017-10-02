@@ -4,7 +4,7 @@ title:      "filebeat发送kafka"
 subtitle:   ""
 date:       2017-10-02 23:23:23
 author:     "phoenix"
-header-img: ""
+header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - filebeat
     - kafka
