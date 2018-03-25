@@ -1,2 +1,0 @@
-# Phoenix Blog
-  phoenix blog
